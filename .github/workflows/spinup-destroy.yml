@@ -12,7 +12,7 @@ env:
   ###############################################
   ### Replace usama-s786 with GitHub username ###
   ###############################################
-  AZURE_WEBAPP_NAME: <username>-ttt-app
+  AZURE_WEBAPP_NAME: usama-s786-ttt-app
 
 jobs:
   setup-up-azure-resources:
